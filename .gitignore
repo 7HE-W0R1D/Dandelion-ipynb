@@ -40,7 +40,8 @@ venv.bak/
 
 # Generated project outputs
 generated/
-generated/*
+generated/**
+*.svg.bak
 
 # Environment and secrets
 .env
